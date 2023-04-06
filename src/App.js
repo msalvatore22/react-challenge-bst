@@ -1,9 +1,10 @@
 import './App.css';
+import BinarySearchTree from './bst';
 
 function App() {
   return (
     <div className="App">
-      <p>Hi</p>
+      <BinarySearchTree />
     </div>
   );
 }
